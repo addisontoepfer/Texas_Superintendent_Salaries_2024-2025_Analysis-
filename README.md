@@ -18,4 +18,4 @@ Feature Engineering
 • FTE Pay  Overall -> Designated Low/Medium/High Pay
 • Turnover -> District <1  Designated (Single/Partial)
 • FullTime/PartTime -> FTE > 1 (Full Pay/Partial)
-<img width="811" height="515" alt="image" src="https://github.com/user-attachments/assets/5f48dc1a-ed7a-44a5-a6ca-30d095a16390" />
+
